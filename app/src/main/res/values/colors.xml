@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="color_business_type_food">#8fcdf7</color>
+    <color name="color_business_type_cream">#83e0b6</color>
+    <color name="color_business_type_spa">#fb977f</color>
+    <color name="color_business_type_coffee">#fad780</color>
+    <color name="color_business_type_take_away">#fca3c8</color>
+</resources>
